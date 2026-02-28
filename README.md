@@ -1,4 +1,4 @@
-Study Compass
+### Study Compass
 
 Study Compass - a PHP-based web application to discover and manage universities, scholarships, events, and community discussions.
 
